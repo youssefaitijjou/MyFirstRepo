@@ -1,3 +1,6 @@
 In this course, I have learned how to use Git and GitHub for version control. I now understand how to clone repositories, create and commit files locally, and push changes to GitHub. These skills help me manage projects and collaborate efficiently.
 git add learning.txt
+nano learning.txt
+In this course, I have learned how to use Git and GitHub for version control. I now understand how to clone repositories, create and commit files locally, and push changes to GitHub. These skills help me manage projects and collaborate efficiently.
+
  git commit -m "Added learning.txt with course reflection"
